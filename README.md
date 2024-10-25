@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-firebase-crashlytics](modules/firebase-crashlytics)
 - [django-calendly](backend/modules)
 - [django-contact-us](backend/modules)
+- [faq]()
 
 # Getting started: Frontend
 
